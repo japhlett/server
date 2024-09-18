@@ -1,0 +1,2 @@
+Data read from input.txt: This is a sample file to be read using node JS. 
+Date Created: Wed Sep 18 2024 14:11:46 GMT+0000 (Coordinated Universal Time)
